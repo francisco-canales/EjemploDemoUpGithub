@@ -11,6 +11,15 @@
     <form id="form1" runat="server">
         <div>
             <asp:Label ID="Label1" runat="server" Text="Hola"></asp:Label>
+<<<<<<< HEAD
+            <br />
+            <asp:Label ID="Label2" runat="server" Text="La mejor FM"></asp:Label>
+            <br />
+            <asp:Label ID="Label3" runat="server" Text="Label"></asp:Label>
+            <br />
+            <asp:Button ID="Button1" runat="server" Text="Button" />
+=======
+>>>>>>> f0f238d16a3c4cfcf8fb451c98903b69e8240601
         </div>
     </form>
 </body>
